@@ -1,4 +1,4 @@
-# Data Analysis Project
+# DA Project
 
 ### Добро пожаловать в репозиторий.
 
