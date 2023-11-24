@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 # DataAnalysisProject
 
 * numpy 
 * pandas 
 * matplotlib
 * seaborn 
-=======
 # DA Project
 
 ### Добро пожаловать в репозиторий.
@@ -28,4 +27,4 @@
 
 --------
 ### Спасибо, что заглянули!
->>>>>>> 50283124f26536ba66d4c4205dca26f02f16212f
+
